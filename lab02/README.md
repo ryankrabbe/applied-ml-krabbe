@@ -6,8 +6,8 @@ In this project, I will use the Titantic dataset to explore different features t
 ## Dataset 
 Titanic Dataset (Predict survival patterns based on features like age, sex, gender and fare)  
 - We use the built-in dataset from seaborn:  
-   - 'import seaborn as sns'
-   - 'titanic = sns.load_dataset('titanic')'  
+   - ```import seaborn as sns```
+   - ```titanic = sns.load_dataset('titanic')``` 
 
 ---
 
