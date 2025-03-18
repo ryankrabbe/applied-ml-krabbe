@@ -19,3 +19,7 @@ __pycache__/
 # Ignore Files
 avocado_prices.ipynb
 avocado.csv
+
+# Ignore Folders
+example01/
+example02/
