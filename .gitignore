@@ -19,9 +19,7 @@ __pycache__/
 # Ignore Files
 avocado_prices.ipynb
 avocado.csv
-decision_tree_titanic_case_2.png
-decision_tree_titanic_case_3.png
-decision_tree_titanic.png
+lab03/decision_tree_titanic*.png
 
 # Ignore Folders
 example01/
