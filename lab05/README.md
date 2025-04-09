@@ -1,7 +1,7 @@
 # Ensemble Models - Wine Quality Dataset
 
 ## Overview
-In this project I'll use the Titantic dataset to predict `fare` based on different features such as `age`, `sex`, `pclass` and `family_size`. I'll incorporate different machine models and techniques to predict passenger fare.
+In this project I'll evaluate different ensemble models using the Wine Quality Dataset to predict the quality of red wine based on their 11 physicochemical input variables.
 
 ## Dataset 
 Wine Quality Dataset
@@ -17,7 +17,7 @@ Wine Quality Dataset
     - `pH`
     - `sulphates`
     - `alcohol`
-- The target variable is quality (integer score from 0 to 10, rated by wine tasters)
+- The target variable is `quality` (integer score from 0 to 10, rated by wine tasters)
 
 ---
 
@@ -40,7 +40,7 @@ Wine Quality Dataset
 ---
 
 ## Below is my Summary Table Template
-- This template is used to compare my two ensemble models used: Gradient Boosting & Voting (RF + LR + KNN)
+- This template is used to compare my two ensemble models used: **Gradient Boosting** & **Voting (RF + LR + KNN)**
 
 | Model                    | Train Accuracy | Test Accuracy | Train F1   | Test F1   | Accuracy Gap | F1 Gap   |
 |--------------------------|----------------|----------------|------------|-----------|---------------|----------|
